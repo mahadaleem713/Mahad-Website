@@ -52,7 +52,7 @@ body
 
 .navigation-bar a:hover 
 {
-    background: #a77b0486;
+    background: #17a70486;
 }
 
 .navigation-bar a.active-link 
@@ -196,7 +196,7 @@ body
 }
 
 .footer a {
-    color: #1e5aa5;
+    color: #1ea0a5;
     display: block;
     margin-top: 6px;
 }
