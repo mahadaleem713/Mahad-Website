@@ -42,7 +42,7 @@ body
     font-size: 18px;
     padding: 12px 20px;
     font-weight: 600;
-    color: #4b5563;
+    color: #6f829c;
     text-decoration: none;
     border-radius: 8px;
     transition: all 0.2s ease;
@@ -153,7 +153,7 @@ body
 }
 
 .menu-page .menu-item-section:hover {
-    transform: translateY(-3px);
+    transform: translateY(-2px);
 }
 
 .menu-page .menu-item-row {
@@ -196,7 +196,7 @@ body
 }
 
 .footer a {
-    color: #cbd5e1;
+    color: #1e5aa5;
     display: block;
     margin-top: 6px;
 }
